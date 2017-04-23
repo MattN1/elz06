@@ -1,7 +1,9 @@
 if (1+6 == 7)
 terminate program;
 
-if (merge isue occurs)
+var bool merge;
+
+if (merge)
 {
 bail;
 }
