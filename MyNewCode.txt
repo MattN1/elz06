@@ -1,2 +1,7 @@
-if (1+2 == 3)
+if (1+6 == 7)
 terminate program;
+
+if (merge issue occurs)
+{
+bail;
+}
